@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning new technologies<br>👯 I’m looking to collaborate on full stack projects<br>🌱 I am currently learning about frameworks, PHP and C#<br>💬 Ask me about myself<br>⚡ A Group of Flamingos is Called a "Flamboyance"
+🔭 I’m currently working on learning new technologies<br>👯 I’m looking to collaborate on full stack projects<br>🌱 I am currently learning more about frameworks and JavaScript<br>💬 Ask me about myself<br>⚡ A Group of Flamingos is Called a "Flamboyance"
 
 
 ## 🌐 Socials:
